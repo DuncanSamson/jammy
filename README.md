@@ -2,8 +2,8 @@
 
 A professional C project template with modern development practices and tooling.
 
-[![Continuous Integration](https://github.com/daniel-samson/c-application-template/actions/workflows/continuous-integration.yml/badge.svg)](https://github.com/daniel-samson/c-application-template/actions/workflows/continuous-integration.yml)
-[![Coverage](https://codecov.io/gh/daniel-samson/c-application-template/branch/main/graph/badge.svg)](https://codecov.io/gh/daniel-samson/c-application-template)
+[![Continuous Integration](https://github.com/DuncanSamson/jammy/actions/workflows/continuous-integration.yml/badge.svg)](https://github.com/DuncanSamson/jammy/actions/workflows/continuous-integration.yml)
+[![Coverage](https://codecov.io/gh/DuncanSamson/jammy/branch/main/graph/badge.svg)](https://codecov.io/gh/DuncanSamson/jammy)
 
 
 # Features
@@ -85,7 +85,7 @@ c-application-template/
 
 1. **Clone this template repository:**
    ```bash
-   git clone https://github.com/daniel-samson/c-application-template.git myproject
+   git clone https://github.com/DuncanSamson/jammy.git myproject
    cd myproject
    ```
 
@@ -226,8 +226,8 @@ See [CHANGELOG.md](CHANGELOG.md) for version history.
 ## Support
 
 - 📖 [Documentation](build/docs/html/index.html)
-- 🐛 [Issue Tracker](https://github.com/daniel-samson/c-application-template/issues)
-- 💬 [Discussions](https://github.com/daniel-samson/c-application-template/discussions)
+- 🐛 [Issue Tracker](https://github.com/DuncanSamson/jammy/issues)
+- 💬 [Discussions](https://github.com/DuncanSamson/jammy/discussions)
 
 ## Acknowledgments
 
